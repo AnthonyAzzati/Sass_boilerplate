@@ -1,0 +1,22 @@
+{
+  "name": "sass_boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate Sass",
+  "main": "index.js",
+  "scripts": {
+    "watch-scss": "sass --watch scss/style.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyAzzati/Sass_boilerplate.git"
+  },
+  "author": "Anthony Azzati",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnthonyAzzati/Sass_boilerplate/issues"
+  },
+  "homepage": "https://github.com/AnthonyAzzati/Sass_boilerplate#readme",
+  "devDependencies": {
+    "sass": "^1.37.5"
+  }
+}
